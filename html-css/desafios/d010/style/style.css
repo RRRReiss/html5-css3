@@ -50,7 +50,14 @@ nav {
 
 main {
     background-color: white;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
 }
+
+/* img {
+    width: 100%;
+} */
 
 main h1 {
     color: var(--cor5);
